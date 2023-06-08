@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pFS6IQYL4MpXlUEmCahHV8I9EQmQBv0ce/IzD9wQrUw=",
+  "Source": "FPT_Exchange_API",
+  "BasePath": "_content/FPT_Exchange_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

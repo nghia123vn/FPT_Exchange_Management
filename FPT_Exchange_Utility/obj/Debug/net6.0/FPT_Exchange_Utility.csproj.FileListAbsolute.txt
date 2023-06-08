@@ -1,0 +1,12 @@
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\bin\Debug\net6.0\FPT_Exchange_Utility.deps.json
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\bin\Debug\net6.0\FPT_Exchange_Utility.dll
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\bin\Debug\net6.0\FPT_Exchange_Utility.pdb
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\obj\Debug\net6.0\FPT_Exchange_Utility.csproj.AssemblyReference.cache
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\obj\Debug\net6.0\FPT_Exchange_Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\obj\Debug\net6.0\FPT_Exchange_Utility.AssemblyInfoInputs.cache
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\obj\Debug\net6.0\FPT_Exchange_Utility.AssemblyInfo.cs
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\obj\Debug\net6.0\FPT_Exchange_Utility.csproj.CoreCompileInputs.cache
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\obj\Debug\net6.0\FPT_Exchange_Utility.dll
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\obj\Debug\net6.0\refint\FPT_Exchange_Utility.dll
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\obj\Debug\net6.0\FPT_Exchange_Utility.pdb
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Utility\obj\Debug\net6.0\ref\FPT_Exchange_Utility.dll

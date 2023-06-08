@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FPT_Exchange_Utility/1.0.0": {
+        "runtime": {
+          "FPT_Exchange_Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FPT_Exchange_Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

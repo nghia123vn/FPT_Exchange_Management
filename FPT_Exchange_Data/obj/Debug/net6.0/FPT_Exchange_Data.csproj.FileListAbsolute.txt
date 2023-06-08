@@ -1,0 +1,17 @@
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\bin\Debug\net6.0\FPT_Exchange_Data.deps.json
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\bin\Debug\net6.0\FPT_Exchange_Data.runtimeconfig.json
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\bin\Debug\net6.0\FPT_Exchange_Data.dll
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\bin\Debug\net6.0\FPT_Exchange_Data.pdb
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\bin\Debug\net6.0\FPT_Exchange_Utility.dll
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\bin\Debug\net6.0\FPT_Exchange_Utility.pdb
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\FPT_Exchange_Data.csproj.AssemblyReference.cache
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\FPT_Exchange_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\FPT_Exchange_Data.AssemblyInfoInputs.cache
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\FPT_Exchange_Data.AssemblyInfo.cs
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\FPT_Exchange_Data.csproj.CoreCompileInputs.cache
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\FPT_Exchange_Data.csproj.CopyComplete
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\FPT_Exchange_Data.dll
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\refint\FPT_Exchange_Data.dll
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\FPT_Exchange_Data.pdb
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\FPT_Exchange_Data.genruntimeconfig.cache
+D:\PRN231\ProjectNhom\FPT_Exchange_Management\FPT_Exchange_Data\obj\Debug\net6.0\ref\FPT_Exchange_Data.dll
